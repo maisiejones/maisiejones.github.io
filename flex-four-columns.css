@@ -88,7 +88,4 @@ img { width: 100%; height: auto; display: block }
 .container-flexbox .item-col-4.bg-dark * { color: #fff }
 
 
-/* Visual layout guides - remove when finished */
-.container-flexbox { border: red 1px solid }
-.container-flexbox .item-col-4 { border: blue 1px solid }
 

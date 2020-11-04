@@ -86,10 +86,6 @@ body { font-family: 'Open Sans', sans-serif }
 .container-flexbox .item-col-2.bg-dark * { color: #fff }
 
 
-/* Visual layout guides - remove when finished */
-.container-flexbox { border: red 1px solid }
-.container-flexbox .item-col-2 { border: blue 1px solid }
-
 /* =============== HERO BLOCK ================= */
 .bg-hero {
     display: flex;
