@@ -453,7 +453,7 @@ body { font-family: 'Roboto', sans-serif }
 
 .container-footer ul.footer-links li a:hover, 
 .container-footer ul.footer-links li a:active  {
-   border-bottom-color: #fff
+   border-bottom-color: #fff ;
 }
 
 /* Footer icons */
