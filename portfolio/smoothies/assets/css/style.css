@@ -292,7 +292,7 @@ p {
 .container-footer h4 {
    font-family: serif;
    font-weight: normal;
-   font-style: italic;
+   font-style: normal;
    font-size: calc(26px + (48 - 26) * ((100vw - 320px)/(1600 - 320)));
    margin: 0 auto 16px 0;
 }
